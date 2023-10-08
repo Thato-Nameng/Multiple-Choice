@@ -1,0 +1,24 @@
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\bin\Debug\Student Quiz Management.exe.config
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\bin\Debug\Student Quiz Management.exe
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\bin\Debug\Student Quiz Management.pdb
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\bin\Debug\Guna.UI2.dll
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\obj\Debug\Student Quiz Management.csproj.AssemblyReference.cache
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\obj\Debug\Student Quiz Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\obj\Debug\Student_Quiz_Management.MainMenu.resources
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\obj\Debug\Student_Quiz_Management.Properties.Resources.resources
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\obj\Debug\Student Quiz Management.csproj.GenerateResource.cache
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\obj\Debug\Student Quiz Management.csproj.CoreCompileInputs.cache
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\obj\Debug\Student Quiz Management.csproj.CopyComplete
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\obj\Debug\Student Quiz Management.exe
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\obj\Debug\Student Quiz Management.pdb
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\obj\Debug\Student_Quiz_Management.LecturerMenu.resources
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\obj\Debug\Student_Quiz_Management.Lecturer_UserControl.Add_Question.resources
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\obj\Debug\Student_Quiz_Management.Lecturer_UserControl.UpdateQuestions.resources
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\obj\Debug\Student_Quiz_Management.Lecturer_UserControl.ViewDeleteQuestion.resources
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\obj\Debug\Student_Quiz_Management.StudentRegistration.resources
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\obj\Debug\Student_Quiz_Management.StudentMenu.resources
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\obj\Debug\Student_Quiz_Management.Student_UserControl.StudentPractice.resources
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\obj\Debug\Student_Quiz_Management.Student_UserControl.StudentExam.resources
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\obj\Debug\Student_Quiz_Management.Student_UserControl.StudentTest.resources
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\obj\Debug\Student_Quiz_Management.Student_UserControl.StudentMarks.resources
+C:\Users\thato\source\repos\Projects\C# Final\Student Quiz Management\Student Quiz Management\obj\Debug\Student_Quiz_Management.Lecturer_UserControl.StudentResults.resources
