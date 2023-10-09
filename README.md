@@ -28,29 +28,4 @@ Quiz Modes:
 Lecturer Control:
 
 - View student answers.
-- Update or delete questions as neede
-
-### Usage
-
-#### Lecturer
-
-- Login: Enter lecturer credentials.
-- Create Quiz:
--- Set subject, quiz type, and options.
-Add questions and answers.
-Choose time limit for exams (if applicable).
-View Student Performance:
-Monitor quiz results and analyze performance.
-Student
-Register:
-Provide details and receive a unique student number.
-Login:
-Use the provided credentials.
-Select Quiz:
-Choose from available quizzes based on subject and type.
-Take Quiz:
-Answer questions according to the chosen quiz mode.
-View Percentage:
-See the percentage score after completing a quiz.
-Database Management
-The application utilizes a database to store user information, quiz details, and results. 
+- Update or delete questions as needed
