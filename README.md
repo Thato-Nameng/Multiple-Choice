@@ -21,8 +21,8 @@ Student Portal:
 
 Quiz Modes:
 
-- Practice: Unlimited attempts, no time limit.
-- Test: Limited attempts, no time limit.
+- Practice: Unlimited attempts, no time limit and graded.
+- Test: Limited attempts, no time limit and graded.
 - Exam: Timed and graded.
 
 Lecturer Control:
